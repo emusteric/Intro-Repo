@@ -8,7 +8,7 @@ First go to GitHub, if you don't have an account, sign up. highly recommend two 
 
 Create a new Repository in GitHub. Just give it a name then click create.
 
-It will give you all the information you need once created. But for my purposes...
+It will give you all the information you need once created, and is actually more efficient just copying and pasting from GitHub after creating a repo... but for my purposes...
 
 Create a directory for your "project" 
 
