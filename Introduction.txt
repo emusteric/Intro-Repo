@@ -46,18 +46,3 @@ Now we can delete our directory just for fun and then bring the repo back using:
 
 git clone https://github.com/emusteric/Intro-Repo.git
 
-
-Now we can add some files. I'm going to add this "introduction" and a very poor PowerShell script that was a very quick attempt at automating the above. Still going to do that as it will be good to show some other features of git.
-
-
-
-
-
-
-
-
-
-
-and open up powershell or cmd prompt and navigate to that directory.
-
-type code . which will open up Visual Studio Code. (Not a programmer but I really like Visual Studio Code)
