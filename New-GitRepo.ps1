@@ -13,7 +13,7 @@ function New-GitRepo {
 
     $ReadMe = Read-Host -Prompt "Enter what text you would like in the readme file: "
 
-    $Commit = Read-Host -Prompt "Enter an initial commit message: "
+    $Commit = Read-Host -Prompt "Enter an initial commit message:: "
 
 }
 
